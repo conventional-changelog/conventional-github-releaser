@@ -47,8 +47,9 @@ const cli = meow({
     },
     token: {
       alias: 't',
-      default: process.env.CONVENTIONAL_GITHUB_RELEASER_TOKEN,
-      type: 'string'
+      default: process.env.CONVENTIONAL_GITHUB_RELEASER_TOKEN || '',
+      type: 'string',
+      isRequired: false
     },
     preset: {
       alias: 'p',

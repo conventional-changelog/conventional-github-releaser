@@ -48,7 +48,7 @@ const cli = meow({
     },
     token: {
       alias: 't',
-      default: process.env.CONVENTIONAL_GITLAB_RELEASER_TOKEN,
+      default: process.env.CONVENTIONAL_GITLAB_RELEASER_TOKEN || '',
       type: 'string'
     },
     preset: {
