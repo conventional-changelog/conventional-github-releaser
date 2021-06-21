@@ -45,7 +45,7 @@
     "meow": "^7.0.0",
     "object-assign": "^4.0.1",
     "q": "^1.4.1",
-    "semver": "^5.0.1",
+    "semver": "^7.0.0",
     "semver-regex": "^2.0.0",
     "through2": "^2.0.0"
   }
