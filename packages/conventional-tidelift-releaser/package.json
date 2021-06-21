@@ -36,7 +36,7 @@
     "conventional-changelog": "^2.0.0",
     "conventional-changelog-conventionalcommits": "^3.0.2",
     "dateformat": "^3.0.0",
-    "debug": "^3.1.0",
+    "debug": "^4.0.0",
     "git-semver-tags": "^2.0.0",
     "got": "^9.6.0",
     "lodash.merge": "^4.0.2",
