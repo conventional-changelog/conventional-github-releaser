@@ -44,6 +44,6 @@
     "object-assign": "^4.0.1",
     "q": "^1.4.1",
     "semver-regex": "^2.0.0",
-    "through2": "^2.0.0"
+    "through2": "^4.0.0"
   }
 }
